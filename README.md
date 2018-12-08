@@ -50,3 +50,10 @@ E -> n
 | Q          | (, -, n    | $, ), *, +, - |  
 
 
+**Пример** дерева разбора, которое нарисует программа для выражения 
+```-3 *     (2 + 1) - 7 * 6 + (1 + (1 + 5))```
+
+
+![Example of drawn tree](https://github.com/YuryBandarchuk16/MT-Recursive-Parser/blob/master/example/ex1.png)
+
+
